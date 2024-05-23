@@ -30,7 +30,6 @@ def visualize_symbol(symbol, font_path):
 # Список символов
 symbols = ['A', 'B', 'C', 'D']
 
-# Проверьте, что пути к шрифтам указаны корректно. Замените на ваши реальные пути!
 fonts_directory = "/Users/rmsaitov/wrs/mtuci/nn/lab1"
 fonts = [
     os.path.join(fonts_directory, 'Arial.ttf'),
